@@ -2,6 +2,10 @@
 
 Complete AI robotic arm learning project with one interactive dashboard, switchable full-space 2D and 3D views, autonomous AI-style control, hardware-ready Arduino communication, and robotics math tests.
 
+## Demo
+
+![Curiosity Arm interactive dashboard demo](media/curiosity-arm-demo.gif)
+
 ## What Works Now
 
 - Unified interactive dashboard with 2D/3D view switching
